@@ -7,5 +7,8 @@ class S
   int c=i;
       i=j;
       j=c;
+  System.out.println("the value of i+"  "+j");
+  
+  System.out.println("the value of c");
 }
 }
