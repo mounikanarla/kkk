@@ -9,6 +9,8 @@ class S
       j=c;
   System.out.println("the value of i+"  "+j");
   
-  System.out.println("the value of c");
+  System.out.println("the value of c"+c);
+ System.out.println("the value of i"+i);
+  
 }
 }
